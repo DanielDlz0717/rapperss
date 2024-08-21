@@ -1,0 +1,12 @@
+<!DOCTYPE html> <!--doctype declaration: tells the browser that this is a html file-->
+<html> <!--opening HTMl tag-->
+ <head> <!--the head element contains meta info about page-->
+  <title>Rappers</title></head>
+ <body> <!--the body element contains all content to display on page-->
+   <h1></h1>
+   <p>
+     Welcome to my page, i am gonna talk about my top 5 favorite rappers.
+   </p>
+   <img src= "" alt="Just my boy tyler">
+ </body>
+</html> <!--closing HTML tag-->
